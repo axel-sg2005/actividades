@@ -1,0 +1,27 @@
+body
+{
+    background-color: #049bff;
+}
+
+h2
+{
+    font-size: 2rem;
+    color: #ffffff;
+    padding: 7rem;
+    text-align: center;
+}
+
+.yo
+{
+    width: 30rem;
+    height: 30rem;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+    border-radius: 50%;
+}
+
+h4
+{
+    color: white;
+}
